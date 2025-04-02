@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/antonio-fontes-15a1482b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation] (https://gituhub.com/AntonioFontess/AntonioFontess.blob.output/github-contrution-grid-snake.svg)
+"Criador do AgrolinkD – Conectando o agro: agrolinkd.com"
