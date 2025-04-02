@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://beacons.ai/rafaballerini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioFontess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFontess&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonioFontess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonioFontess&layout=compact&langs_count=16&theme=dracula"/>
   
 <div>
   
@@ -16,5 +16,4 @@ Fundador do AgrolinkD:
 <a href="https://agrolinkd.com/" target="_blank">
   <img src="https://img.shields.io/badge/-AgrolinkD-%2300A650?style=for-the-badge&logo=internet-explorer&logoColor=white" target="_blank">
 </a>
-
 
