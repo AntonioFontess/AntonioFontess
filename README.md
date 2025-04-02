@@ -23,7 +23,9 @@
   <a href="https://www.linkedin.com/in/antonio-fontes-15a1482b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+Fundador do AgrolinkD:  
 <a href="https://agrolinkd.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-AgrolinkD-%230077B5?style=for-the-badge&logo=internet-explorer&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-AgrolinkD-%2300A650?style=for-the-badge&logo=internet-explorer&logoColor=white" target="_blank">
 </a>
+
 
