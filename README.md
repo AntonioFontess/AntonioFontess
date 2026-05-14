@@ -21,7 +21,7 @@
 
 ### Portfólio:
 <a href="https://antoniofontes.vercel.app/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Portfólio-%23c9a227?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/-Portfólio-%23c9a227?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+CiAgPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNiIgZmlsbD0iIzBhMGEwYSIvPgogIDx0ZXh0IHg9IjE2IiB5PSIyMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2M5YTIyNyI+QUY8L3RleHQ+Cjwvc3ZnPgo=&logoColor=white">
 </a>
 
 ### Tecnologias:
