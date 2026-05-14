@@ -19,9 +19,9 @@
   </a>
 </div>
 
-### CEO e Fundador do AgrolinkD:
-<a href="https://agrolinkd.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-AgrolinkD-%2300A650?style=for-the-badge&logo=internet-explorer&logoColor=white">
+### Portfólio:
+<a href="https://antoniofontes.vercel.app/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Portfólio-%23c9a227?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 ### Tecnologias:
